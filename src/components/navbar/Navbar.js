@@ -79,7 +79,7 @@ export default function Navbar() {
         {[
           {
             text: "Population",
-            link: "/population",
+            link: "/",
             icon: <Groups2Icon color="secondary" />,
           },
           {
